@@ -8,9 +8,9 @@ I am senior-1 Computer Engineering Student at Faculty of Engineering, Ain Shams 
 
 * 🌍  I'm based in Cairo
 * ✉️  You can contact me at [elbanna16@gmail.com](mailto:elbanna16@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on any Data Analysis or Embedded Systems project
-* ⚡  I believe that we must learn Software Engineering not through textbooks we have to practice it
+
 
 ### Skills
 
