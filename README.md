@@ -4,12 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineering Student
 ----------------------------
 
-I am senior-1 Computer Engineering Student at Faculty of Engineering, Ain Shams University with a passion for innovative technology solutions, I am excited to leverage my skills and experience to make a meaningful impact in the industry. Through my hands-on experience with programming languages like C, C++, and Python, I have developed a strong foundation in Data Analysis, Embedded Systems, and Software Development.
+I am senior-1 Computer Engineering Student at Faculty of Engineering, Ain Shams University with a passion for innovative technology solutions, I am excited to leverage my skills and experience to make a meaningful impact in the industry. Through my hands-on experience with programming languages like C, C++, and Python, I have developed a strong foundation in Machine Learning, Embedded Systems, and Software Development.
 
 * 🌍  I'm based in Cairo
 * ✉️  You can contact me at [elbanna16@gmail.com](mailto:elbanna16@gmail.com)
-* 🧠  I'm learning Node.js
-* 🤝  I'm open to collaborating on any Data Analysis or Embedded Systems project
 
 ### Skills
 
@@ -33,12 +31,3 @@ I am senior-1 Computer Engineering Student at Faculty of Engineering, Ain Shams 
 
 <p align="middle"> <a href="https://www.github.com/OmarElbanna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/omar-el-banna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/OmarElbanna"><img src="https://github-readme-stats.vercel.app/api?username=OmarElbanna&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="OmarElbanna's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/OmarElbanna/Power-Window-Control-System" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarElbanna&repo=Power-Window-Control-System&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/OmarElbanna/Street_View_House_Numbers_SVHN_Recognition" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=OmarElbanna&repo=Street_View_House_Numbers_SVHN_Recognition&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
